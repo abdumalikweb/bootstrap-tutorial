@@ -1,0 +1,56 @@
+.collapse {
+  flex-grow: 0 !important;
+}
+
+nav {
+  background: #bb2339;
+  padding: 27px 0;
+}
+
+a.nav-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+header {
+  background: #bb2339;
+}
+
+#about {
+  text-align: center;
+}
+#about h1 {
+  margin: auto;
+  max-width: 720px;
+  padding-top: 170px;
+  padding-bottom: 50px;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 130%;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  font-feature-settings: "tnum" on, "lnum" on;
+  color: #242424;
+}
+#about img {
+  margin: auto;
+  width: 720px;
+}
+#about p {
+  padding: 40px 0;
+  margin: auto;
+  max-width: 720px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0.04em;
+  color: #242424;
+}/*# sourceMappingURL=about.css.map */
